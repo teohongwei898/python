@@ -1,2 +1,2 @@
 # python
-For Python
+Python codes and files from tutorials etc.
